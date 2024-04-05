@@ -1,3 +1,10 @@
+# Flow
+
+1. Clone the Git Repository.
+2. Navigate to the root folder of the project.
+3. Run "npm install" in the terminal to install the dependencies.
+4. Run "npm start".
+5. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,8 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-1. CLone the Git Repository.
-2. Navigate to the root folder of the project.
-3. Run "npm install" in the terminal to install the dependencies.
-4. Run "npm start".
 
